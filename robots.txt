@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hekfxtn.github.io/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/app/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/assets/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/css/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/data/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/includes/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/item/sitemap.html.gz
+Sitemap: https://hekfxtn.github.io/src/sitemap.html.gz
